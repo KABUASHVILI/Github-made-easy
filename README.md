@@ -7,6 +7,9 @@ This is my first repository
     <header>
       Begaso Family Winery
       </header>
+      <footer>
+      logo
+      </footer>
     </body>  
 
 
