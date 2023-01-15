@@ -7,7 +7,8 @@ This is my first repository
     <header>
       Begaso Family Winery
       </header>
-    </body>  
-
-
+      <main>
+      <a href="#" alt="Begaso">
+      </Main>
+      </body>
   </html>
