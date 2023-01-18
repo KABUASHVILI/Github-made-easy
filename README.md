@@ -7,3 +7,6 @@ This is my first repository
       Begaso Family Winery
       </header>
   </html>
+  <main>
+  <a href="#" alt="Image">
+  </main>
